@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/759b8c41-3b94-4d6b-88ec-9904dca57c7e" alt="My Banner" width="100%">
+</p>
+
 # 💫 Hi 👋, I'm Krishnendu Gorain
 **A passionate Coder || Backend Engineer || Admin from India**
 
