@@ -32,7 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1015">
 
-# 💫 Hi 👋, I'm Krishnendu Gorain
+# Hi 👋, I'm Krishnendu Gorain
 **A passionate Coder || Backend Engineer || Admin from India**
 
 Email Me 👉 ✉️ **krishnendugorain@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -55,23 +55,39 @@ Email Me 👉 ✉️ **krishnendugorain@gmail.com** For Collaboration/Project or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KrishnenduGorain&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KrishnenduGorain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnenduGorain&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1015">
+<div align="center">
+
+# 📊 GitHub Stats:
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=KrishnenduGorain&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=KrishnenduGorain&theme=dark&hide_border=false" />
+</p>
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnenduGorain&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1015" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrishnenduGorain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1015">
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KrishnenduGorain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KrishnenduGorain&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduGorain&color=red)](https://github.com/KrishnenduGorain)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
