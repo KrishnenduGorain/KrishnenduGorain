@@ -17,7 +17,7 @@
 - 💻 Currently learning DSA in Java
 - 🌱 Exploring Web Development
 - ⚙️ Learning Spring Boot Backend Development
-- ⚡ Goal: Become a top Backend developer
+- ⚡ Goal: Become a top Full-stack developer
 
 </td>
 
